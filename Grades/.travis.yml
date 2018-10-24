@@ -1,0 +1,7 @@
+language: csharp
+solution: Grades.sln
+dotnet: 2.1
+install: 
+  - nuget restore Grades.sln
+script:
+  - dotnet restore

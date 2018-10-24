@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BetsySkinner\\Documents\\GitHub\\pluralsightpractice\\Grades\\Grades.Core\\Grades.Core.csproj",
+      "projectUniqueName": "C:\\Users\\BetsySkinner\\Documents\\Practice_GitHub\\pluralsightpractice\\Grades\\Grades.Core\\Grades.Core.csproj",
       "projectName": "Grades.Core",
-      "projectPath": "C:\\Users\\BetsySkinner\\Documents\\GitHub\\pluralsightpractice\\Grades\\Grades.Core\\Grades.Core.csproj",
+      "projectPath": "C:\\Users\\BetsySkinner\\Documents\\Practice_GitHub\\pluralsightpractice\\Grades\\Grades.Core\\Grades.Core.csproj",
       "packagesPath": "C:\\Users\\BetsySkinner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BetsySkinner\\Documents\\GitHub\\pluralsightpractice\\Grades\\Grades.Core\\obj\\",
+      "outputPath": "C:\\Users\\BetsySkinner\\Documents\\Practice_GitHub\\pluralsightpractice\\Grades\\Grades.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
